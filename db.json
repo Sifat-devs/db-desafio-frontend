@@ -1,0 +1,2305 @@
+{
+  "produtos_cadastrados": [
+    {
+      "id": 1,
+      "nome": "Teclado Mecânico RGB",
+      "idGrupo": 3,
+      "precoVenda": 250.0,
+      "quantidadeEstoque": 15
+    },
+    {
+      "id": 2,
+      "nome": "Mouse Gamer 12000 DPI",
+      "idGrupo": 3,
+      "precoVenda": 120.0,
+      "quantidadeEstoque": 20
+    },
+    {
+      "id": 3,
+      "nome": "Monitor 24 Pol 144Hz",
+      "idGrupo": 2,
+      "precoVenda": 1200.0,
+      "quantidadeEstoque": 8
+    },
+    {
+      "id": 4,
+      "nome": "Headset 7.1 Surround",
+      "idGrupo": 2,
+      "precoVenda": 350.0,
+      "quantidadeEstoque": 12
+    },
+    {
+      "id": 5,
+      "nome": "Webcam 1080p",
+      "idGrupo": 2,
+      "precoVenda": 280.0,
+      "quantidadeEstoque": 5
+    },
+    {
+      "id": 6,
+      "nome": "Smartphone 128GB",
+      "idGrupo": 2,
+      "precoVenda": 2500.0,
+      "quantidadeEstoque": 10
+    },
+    {
+      "id": 7,
+      "nome": "Cadeira Ergonômica",
+      "idGrupo": 4,
+      "precoVenda": 950.0,
+      "quantidadeEstoque": 4
+    },
+    {
+      "id": 8,
+      "nome": "Mesa de Escritório L",
+      "idGrupo": 4,
+      "precoVenda": 600.0,
+      "quantidadeEstoque": 3
+    },
+    {
+      "id": 9,
+      "nome": "Impressora Tanque de Tinta",
+      "idGrupo": 3,
+      "precoVenda": 1100.0,
+      "quantidadeEstoque": 6
+    },
+    {
+      "id": 10,
+      "nome": "Roteador Wi-Fi 6",
+      "idGrupo": 3,
+      "precoVenda": 450.0,
+      "quantidadeEstoque": 25
+    },
+    {
+      "id": 11,
+      "nome": "SSD NVMe 1TB",
+      "idGrupo": 3,
+      "precoVenda": 400.0,
+      "quantidadeEstoque": 30
+    },
+    {
+      "id": 12,
+      "nome": "Memória RAM 16GB DDR4",
+      "idGrupo": 3,
+      "precoVenda": 320.0,
+      "quantidadeEstoque": 18
+    },
+    {
+      "id": 13,
+      "nome": "Gabinete Mid Tower",
+      "idGrupo": 3,
+      "precoVenda": 300.0,
+      "quantidadeEstoque": 7
+    },
+    {
+      "id": 14,
+      "nome": "Fonte 650W 80 Plus",
+      "idGrupo": 3,
+      "precoVenda": 420.0,
+      "quantidadeEstoque": 9
+    },
+    {
+      "id": 15,
+      "nome": "Placa de Vídeo RTX 3060",
+      "idGrupo": 2,
+      "precoVenda": 2200.0,
+      "quantidadeEstoque": 2
+    },
+    {
+      "id": 16,
+      "nome": "Microfone Condensador",
+      "idGrupo": 2,
+      "precoVenda": 180.0,
+      "quantidadeEstoque": 14
+    },
+    {
+      "id": 17,
+      "nome": "Cabo HDMI 2.1 2m",
+      "idGrupo": 1,
+      "precoVenda": 45.0,
+      "quantidadeEstoque": 100
+    },
+    {
+      "id": 18,
+      "nome": "Adaptador USB-C para HDMI",
+      "idGrupo": 1,
+      "precoVenda": 85.0,
+      "quantidadeEstoque": 40
+    },
+    {
+      "id": 19,
+      "nome": "Suporte Articulado Monitor",
+      "idGrupo": 4,
+      "precoVenda": 220.0,
+      "quantidadeEstoque": 11
+    },
+    {
+      "id": 20,
+      "nome": "Hub USB 3.0 4 Portas",
+      "idGrupo": 1,
+      "precoVenda": 60.0,
+      "quantidadeEstoque": 22
+    },
+    {
+      "id": 21,
+      "nome": "Caixa de Som Bluetooth",
+      "idGrupo": 2,
+      "precoVenda": 150.0,
+      "quantidadeEstoque": 15
+    },
+    {
+      "id": 22,
+      "nome": "Carregador Portátil 20k mAh",
+      "idGrupo": 1,
+      "precoVenda": 190.0,
+      "quantidadeEstoque": 35
+    },
+    {
+      "id": 23,
+      "nome": "Pendrive 64GB USB 3.0",
+      "idGrupo": 1,
+      "precoVenda": 35.0,
+      "quantidadeEstoque": 80
+    },
+    {
+      "id": 24,
+      "nome": "Cooler para Processador",
+      "idGrupo": 3,
+      "precoVenda": 150.0,
+      "quantidadeEstoque": 12
+    },
+    {
+      "id": 25,
+      "nome": "Luminária de Mesa LED",
+      "idGrupo": 4,
+      "precoVenda": 110.0,
+      "quantidadeEstoque": 20
+    },
+    {
+      "id": 26,
+      "nome": "Pasta Térmica Alta Condutividade",
+      "idGrupo": 3,
+      "precoVenda": 40.0,
+      "quantidadeEstoque": 50
+    },
+    {
+      "id": 27,
+      "nome": "Case para HD/SSD 2.5",
+      "idGrupo": 1,
+      "precoVenda": 55.0,
+      "quantidadeEstoque": 28
+    },
+    {
+      "id": 28,
+      "nome": "Extensor de Wi-Fi",
+      "idGrupo": 3,
+      "precoVenda": 130.0,
+      "quantidadeEstoque": 15
+    },
+    {
+      "id": 29,
+      "nome": "Tapete para Mouse Extra G",
+      "idGrupo": 1,
+      "precoVenda": 70.0,
+      "quantidadeEstoque": 45
+    },
+    {
+      "id": 30,
+      "nome": "Switch 8 Portas Gigabit",
+      "idGrupo": 3,
+      "precoVenda": 200.0,
+      "quantidadeEstoque": 10
+    }
+  ],
+  "grupos": [
+    { "id": 1, "nome": "Acessórios" },
+    { "id": 2, "nome": "Eletrônicos" },
+    { "id": 3, "nome": "Informática" },
+    { "id": 4, "nome": "Móveis" }
+  ],
+  "vendas": [
+    {
+      "idPedido": 104,
+      "data": "2025-01-02",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 230.0,
+      "itens": [
+        {
+          "idProduto": 20,
+          "nomeProduto": "Hub USB 3.0 4 Portas",
+          "quantidadeVendida": 1,
+          "valorProduto": 60.0
+        },
+        {
+          "idProduto": 16,
+          "nomeProduto": "Microfone Condensador",
+          "quantidadeVendida": 1,
+          "valorProduto": 180.0
+        }
+      ]
+    },
+    {
+      "idPedido": 105,
+      "data": "2025-01-04",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 2500.0,
+      "itens": [
+        {
+          "idProduto": 6,
+          "nomeProduto": "Smartphone 128GB",
+          "quantidadeVendida": 1,
+          "valorProduto": 2500.0
+        }
+      ]
+    },
+    {
+      "idPedido": 106,
+      "data": "2025-01-07",
+      "totalItensPedido": 3,
+      "valorTotalPedido": 155.0,
+      "itens": [
+        {
+          "idProduto": 17,
+          "nomeProduto": "Cabo HDMI 2.1 2m",
+          "quantidadeVendida": 2,
+          "valorProduto": 45.0
+        },
+        {
+          "idProduto": 23,
+          "nomeProduto": "Pendrive 64GB USB 3.0",
+          "quantidadeVendida": 1,
+          "valorProduto": 35.0
+        },
+        {
+          "idProduto": 26,
+          "nomeProduto": "Pasta Térmica Alta Condutividade",
+          "quantidadeVendida": 1,
+          "valorProduto": 40.0
+        }
+      ]
+    },
+    {
+      "idPedido": 107,
+      "data": "2025-01-08",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 1350.0,
+      "itens": [
+        {
+          "idProduto": 7,
+          "nomeProduto": "Cadeira Ergonômica",
+          "quantidadeVendida": 1,
+          "valorProduto": 950.0
+        },
+        {
+          "idProduto": 11,
+          "nomeProduto": "SSD NVMe 1TB",
+          "quantidadeVendida": 1,
+          "valorProduto": 400.0
+        }
+      ]
+    },
+    {
+      "idPedido": 108,
+      "data": "2025-01-10",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 450.0,
+      "itens": [
+        {
+          "idProduto": 10,
+          "nomeProduto": "Roteador Wi-Fi 6",
+          "quantidadeVendida": 1,
+          "valorProduto": 450.0
+        }
+      ]
+    },
+    {
+      "idPedido": 109,
+      "data": "2025-01-12",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 340.0,
+      "itens": [
+        {
+          "idProduto": 21,
+          "nomeProduto": "Caixa de Som Bluetooth",
+          "quantidadeVendida": 1,
+          "valorProduto": 150.0
+        },
+        {
+          "idProduto": 22,
+          "nomeProduto": "Carregador Portátil 20k mAh",
+          "quantidadeVendida": 1,
+          "valorProduto": 190.0
+        }
+      ]
+    },
+    {
+      "idPedido": 110,
+      "data": "2025-01-14",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 2200.0,
+      "itens": [
+        {
+          "idProduto": 15,
+          "nomeProduto": "Placa de Vídeo RTX 3060",
+          "quantidadeVendida": 1,
+          "valorProduto": 2200.0
+        }
+      ]
+    },
+    {
+      "idPedido": 111,
+      "data": "2025-01-16",
+      "totalItensPedido": 3,
+      "valorTotalPedido": 670.0,
+      "itens": [
+        {
+          "idProduto": 12,
+          "nomeProduto": "Memória RAM 16GB DDR4",
+          "quantidadeVendida": 2,
+          "valorProduto": 320.0
+        },
+        {
+          "idProduto": 26,
+          "nomeProduto": "Pasta Térmica Alta Condutividade",
+          "quantidadeVendida": 1,
+          "valorProduto": 40.0
+        }
+      ]
+    },
+    {
+      "idPedido": 112,
+      "data": "2025-01-18",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 710.0,
+      "itens": [
+        {
+          "idProduto": 14,
+          "nomeProduto": "Fonte 650W 80 Plus",
+          "quantidadeVendida": 1,
+          "valorProduto": 420.0
+        },
+        {
+          "idProduto": 13,
+          "nomeProduto": "Gabinete Mid Tower",
+          "quantidadeVendida": 1,
+          "valorProduto": 300.0
+        }
+      ]
+    },
+    {
+      "idPedido": 113,
+      "data": "2025-01-20",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 600.0,
+      "itens": [
+        {
+          "idProduto": 8,
+          "nomeProduto": "Mesa de Escritório L",
+          "quantidadeVendida": 1,
+          "valorProduto": 600.0
+        }
+      ]
+    },
+    {
+      "idPedido": 114,
+      "data": "2025-01-22",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 155.0,
+      "itens": [
+        {
+          "idProduto": 29,
+          "nomeProduto": "Tapete para Mouse Extra G",
+          "quantidadeVendida": 1,
+          "valorProduto": 70.0
+        },
+        {
+          "idProduto": 18,
+          "nomeProduto": "Adaptador USB-C para HDMI",
+          "quantidadeVendida": 1,
+          "valorProduto": 85.0
+        }
+      ]
+    },
+    {
+      "idPedido": 115,
+      "data": "2025-01-25",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 280.0,
+      "itens": [
+        {
+          "idProduto": 5,
+          "nomeProduto": "Webcam 1080p",
+          "quantidadeVendida": 1,
+          "valorProduto": 280.0
+        }
+      ]
+    },
+    {
+      "idPedido": 116,
+      "data": "2025-01-27",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 350.0,
+      "itens": [
+        {
+          "idProduto": 30,
+          "nomeProduto": "Switch 8 Portas Gigabit",
+          "quantidadeVendida": 1,
+          "valorProduto": 200.0
+        },
+        {
+          "idProduto": 24,
+          "nomeProduto": "Cooler para Processador",
+          "quantidadeVendida": 1,
+          "valorProduto": 150.0
+        }
+      ]
+    },
+    {
+      "idPedido": 117,
+      "data": "2025-01-29",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 350.0,
+      "itens": [
+        {
+          "idProduto": 4,
+          "nomeProduto": "Headset 7.1 Surround",
+          "quantidadeVendida": 1,
+          "valorProduto": 350.0
+        }
+      ]
+    },
+    {
+      "idPedido": 118,
+      "data": "2025-01-31",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 330.0,
+      "itens": [
+        {
+          "idProduto": 19,
+          "nomeProduto": "Suporte Articulado Monitor",
+          "quantidadeVendida": 1,
+          "valorProduto": 220.0
+        },
+        {
+          "idProduto": 25,
+          "nomeProduto": "Luminária de Mesa LED",
+          "quantidadeVendida": 1,
+          "valorProduto": 110.0
+        }
+      ]
+    },
+
+    {
+      "idPedido": 119,
+      "data": "2025-02-02",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 1145.0,
+      "itens": [
+        {
+          "idProduto": 9,
+          "nomeProduto": "Impressora Tanque de Tinta",
+          "quantidadeVendida": 1,
+          "valorProduto": 1100.0
+        },
+        {
+          "idProduto": 17,
+          "nomeProduto": "Cabo HDMI 2.1 2m",
+          "quantidadeVendida": 1,
+          "valorProduto": 45.0
+        }
+      ]
+    },
+    {
+      "idPedido": 120,
+      "data": "2025-02-05",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 950.0,
+      "itens": [
+        {
+          "idProduto": 7,
+          "nomeProduto": "Cadeira Ergonômica",
+          "quantidadeVendida": 1,
+          "valorProduto": 950.0
+        }
+      ]
+    },
+    {
+      "idPedido": 121,
+      "data": "2025-02-08",
+      "totalItensPedido": 3,
+      "valorTotalPedido": 240.0,
+      "itens": [
+        {
+          "idProduto": 20,
+          "nomeProduto": "Hub USB 3.0 4 Portas",
+          "quantidadeVendida": 2,
+          "valorProduto": 60.0
+        },
+        {
+          "idProduto": 2,
+          "nomeProduto": "Mouse Gamer 12000 DPI",
+          "quantidadeVendida": 1,
+          "valorProduto": 120.0
+        }
+      ]
+    },
+    {
+      "idPedido": 122,
+      "data": "2025-02-11",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 400.0,
+      "itens": [
+        {
+          "idProduto": 11,
+          "nomeProduto": "SSD NVMe 1TB",
+          "quantidadeVendida": 1,
+          "valorProduto": 400.0
+        }
+      ]
+    },
+    {
+      "idPedido": 123,
+      "data": "2025-02-14",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 220.0,
+      "itens": [
+        {
+          "idProduto": 25,
+          "nomeProduto": "Luminária de Mesa LED",
+          "quantidadeVendida": 2,
+          "valorProduto": 110.0
+        }
+      ]
+    },
+    {
+      "idPedido": 124,
+      "data": "2025-02-16",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 305.0,
+      "itens": [
+        {
+          "idProduto": 21,
+          "nomeProduto": "Caixa de Som Bluetooth",
+          "quantidadeVendida": 1,
+          "valorProduto": 150.0
+        },
+        {
+          "idProduto": 24,
+          "nomeProduto": "Cooler para Processador",
+          "quantidadeVendida": 1,
+          "valorProduto": 150.0
+        },
+        {
+          "idProduto": 26,
+          "nomeProduto": "Pasta Térmica Alta Condutividade",
+          "quantidadeVendida": 1,
+          "valorProduto": 40.0
+        }
+      ]
+    },
+    {
+      "idPedido": 125,
+      "data": "2025-02-19",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 1200.0,
+      "itens": [
+        {
+          "idProduto": 3,
+          "nomeProduto": "Monitor 24 Pol 144Hz",
+          "quantidadeVendida": 1,
+          "valorProduto": 1200.0
+        }
+      ]
+    },
+    {
+      "idPedido": 126,
+      "data": "2025-02-22",
+      "totalItensPedido": 3,
+      "valorTotalPedido": 160.0,
+      "itens": [
+        {
+          "idProduto": 23,
+          "nomeProduto": "Pendrive 64GB USB 3.0",
+          "quantidadeVendida": 3,
+          "valorProduto": 35.0
+        },
+        {
+          "idProduto": 27,
+          "nomeProduto": "Case para HD/SSD 2.5",
+          "quantidadeVendida": 1,
+          "valorProduto": 55.0
+        }
+      ]
+    },
+    {
+      "idPedido": 127,
+      "data": "2025-02-25",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 420.0,
+      "itens": [
+        {
+          "idProduto": 14,
+          "nomeProduto": "Fonte 650W 80 Plus",
+          "quantidadeVendida": 1,
+          "valorProduto": 420.0
+        }
+      ]
+    },
+    {
+      "idPedido": 128,
+      "data": "2025-02-28",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 320.0,
+      "itens": [
+        {
+          "idProduto": 1,
+          "nomeProduto": "Teclado Mecânico RGB",
+          "quantidadeVendida": 1,
+          "valorProduto": 250.0
+        },
+        {
+          "idProduto": 29,
+          "nomeProduto": "Tapete para Mouse Extra G",
+          "quantidadeVendida": 1,
+          "valorProduto": 70.0
+        }
+      ]
+    },
+
+    {
+      "idPedido": 129,
+      "data": "2025-03-01",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 250.0,
+      "itens": [
+        {
+          "idProduto": 21,
+          "nomeProduto": "Caixa de Som Bluetooth",
+          "quantidadeVendida": 1,
+          "valorProduto": 150.0
+        },
+        {
+          "idProduto": 25,
+          "nomeProduto": "Luminária de Mesa LED",
+          "quantidadeVendida": 1,
+          "valorProduto": 110.0
+        }
+      ]
+    },
+    {
+      "idPedido": 130,
+      "data": "2025-03-02",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 450.0,
+      "itens": [
+        {
+          "idProduto": 10,
+          "nomeProduto": "Roteador Wi-Fi 6",
+          "quantidadeVendida": 1,
+          "valorProduto": 450.0
+        }
+      ]
+    },
+    {
+      "idPedido": 131,
+      "data": "2025-03-03",
+      "totalItensPedido": 3,
+      "valorTotalPedido": 140.0,
+      "itens": [
+        {
+          "idProduto": 23,
+          "nomeProduto": "Pendrive 64GB USB 3.0",
+          "quantidadeVendida": 2,
+          "valorProduto": 35.0
+        },
+        {
+          "idProduto": 29,
+          "nomeProduto": "Tapete para Mouse Extra G",
+          "quantidadeVendida": 1,
+          "valorProduto": 70.0
+        }
+      ]
+    },
+    {
+      "idPedido": 132,
+      "data": "2025-03-05",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 720.0,
+      "itens": [
+        {
+          "idProduto": 12,
+          "nomeProduto": "Memória RAM 16GB DDR4",
+          "quantidadeVendida": 1,
+          "valorProduto": 320.0
+        },
+        {
+          "idProduto": 11,
+          "nomeProduto": "SSD NVMe 1TB",
+          "quantidadeVendida": 1,
+          "valorProduto": 400.0
+        }
+      ]
+    },
+    {
+      "idPedido": 133,
+      "data": "2025-03-06",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 600.0,
+      "itens": [
+        {
+          "idProduto": 8,
+          "nomeProduto": "Mesa de Escritório L",
+          "quantidadeVendida": 1,
+          "valorProduto": 600.0
+        }
+      ]
+    },
+    {
+      "idPedido": 134,
+      "data": "2025-03-08",
+      "totalItensPedido": 4,
+      "valorTotalPedido": 310.0,
+      "itens": [
+        {
+          "idProduto": 17,
+          "nomeProduto": "Cabo HDMI 2.1 2m",
+          "quantidadeVendida": 2,
+          "valorProduto": 45.0
+        },
+        {
+          "idProduto": 18,
+          "nomeProduto": "Adaptador USB-C para HDMI",
+          "quantidadeVendida": 1,
+          "valorProduto": 85.0
+        },
+        {
+          "idProduto": 27,
+          "nomeProduto": "Case para HD/SSD 2.5",
+          "quantidadeVendida": 1,
+          "valorProduto": 135.0
+        }
+      ]
+    },
+    {
+      "idPedido": 135,
+      "data": "2025-03-09",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 2500.0,
+      "itens": [
+        {
+          "idProduto": 6,
+          "nomeProduto": "Smartphone 128GB",
+          "quantidadeVendida": 1,
+          "valorProduto": 2500.0
+        }
+      ]
+    },
+    {
+      "idPedido": 136,
+      "data": "2025-03-11",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 370.0,
+      "itens": [
+        {
+          "idProduto": 1,
+          "nomeProduto": "Teclado Mecânico RGB",
+          "quantidadeVendida": 1,
+          "valorProduto": 250.0
+        },
+        {
+          "idProduto": 2,
+          "nomeProduto": "Mouse Gamer 12000 DPI",
+          "quantidadeVendida": 1,
+          "valorProduto": 120.0
+        }
+      ]
+    },
+    {
+      "idPedido": 137,
+      "data": "2025-03-12",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 950.0,
+      "itens": [
+        {
+          "idProduto": 7,
+          "nomeProduto": "Cadeira Ergonômica",
+          "quantidadeVendida": 1,
+          "valorProduto": 950.0
+        }
+      ]
+    },
+    {
+      "idPedido": 138,
+      "data": "2025-03-14",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 190.0,
+      "itens": [
+        {
+          "idProduto": 24,
+          "nomeProduto": "Cooler para Processador",
+          "quantidadeVendida": 1,
+          "valorProduto": 150.0
+        },
+        {
+          "idProduto": 26,
+          "nomeProduto": "Pasta Térmica Alta Condutividade",
+          "quantidadeVendida": 1,
+          "valorProduto": 40.0
+        }
+      ]
+    },
+    {
+      "idPedido": 139,
+      "data": "2025-03-15",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 1100.0,
+      "itens": [
+        {
+          "idProduto": 9,
+          "nomeProduto": "Impressora Tanque de Tinta",
+          "quantidadeVendida": 1,
+          "valorProduto": 1100.0
+        }
+      ]
+    },
+    {
+      "idPedido": 140,
+      "data": "2025-03-17",
+      "totalItensPedido": 3,
+      "valorTotalPedido": 425.0,
+      "itens": [
+        {
+          "idProduto": 22,
+          "nomeProduto": "Carregador Portátil 20k mAh",
+          "quantidadeVendida": 2,
+          "valorProduto": 190.0
+        },
+        {
+          "idProduto": 23,
+          "nomeProduto": "Pendrive 64GB USB 3.0",
+          "quantidadeVendida": 1,
+          "valorProduto": 45.0
+        }
+      ]
+    },
+    {
+      "idPedido": 141,
+      "data": "2025-03-18",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 260.0,
+      "itens": [
+        {
+          "idProduto": 16,
+          "nomeProduto": "Microfone Condensador",
+          "quantidadeVendida": 1,
+          "valorProduto": 180.0
+        },
+        {
+          "idProduto": 20,
+          "nomeProduto": "Hub USB 3.0 4 Portas",
+          "quantidadeVendida": 1,
+          "valorProduto": 80.0
+        }
+      ]
+    },
+    {
+      "idPedido": 142,
+      "data": "2025-03-20",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 1200.0,
+      "itens": [
+        {
+          "idProduto": 3,
+          "nomeProduto": "Monitor 24 Pol 144Hz",
+          "quantidadeVendida": 1,
+          "valorProduto": 1200.0
+        }
+      ]
+    },
+    {
+      "idPedido": 143,
+      "data": "2025-03-21",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 260.0,
+      "itens": [
+        {
+          "idProduto": 28,
+          "nomeProduto": "Extensor de Wi-Fi",
+          "quantidadeVendida": 2,
+          "valorProduto": 130.0
+        }
+      ]
+    },
+    {
+      "idPedido": 144,
+      "data": "2025-03-22",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 420.0,
+      "itens": [
+        {
+          "idProduto": 14,
+          "nomeProduto": "Fonte 650W 80 Plus",
+          "quantidadeVendida": 1,
+          "valorProduto": 420.0
+        }
+      ]
+    },
+    {
+      "idPedido": 145,
+      "data": "2025-03-23",
+      "totalItensPedido": 3,
+      "valorTotalPedido": 440.0,
+      "itens": [
+        {
+          "idProduto": 19,
+          "nomeProduto": "Suporte Articulado Monitor",
+          "quantidadeVendida": 2,
+          "valorProduto": 220.0
+        }
+      ]
+    },
+    {
+      "idPedido": 146,
+      "data": "2025-03-24",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 300.0,
+      "itens": [
+        {
+          "idProduto": 13,
+          "nomeProduto": "Gabinete Mid Tower",
+          "quantidadeVendida": 1,
+          "valorProduto": 300.0
+        }
+      ]
+    },
+    {
+      "idPedido": 147,
+      "data": "2025-03-25",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 550.0,
+      "itens": [
+        {
+          "idProduto": 4,
+          "nomeProduto": "Headset 7.1 Surround",
+          "quantidadeVendida": 1,
+          "valorProduto": 350.0
+        },
+        {
+          "idProduto": 30,
+          "nomeProduto": "Switch 8 Portas Gigabit",
+          "quantidadeVendida": 1,
+          "valorProduto": 200.0
+        }
+      ]
+    },
+    {
+      "idPedido": 148,
+      "data": "2025-03-26",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 280.0,
+      "itens": [
+        {
+          "idProduto": 5,
+          "nomeProduto": "Webcam 1080p",
+          "quantidadeVendida": 1,
+          "valorProduto": 280.0
+        }
+      ]
+    },
+    {
+      "idPedido": 149,
+      "data": "2025-03-27",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 470.0,
+      "itens": [
+        {
+          "idProduto": 1,
+          "nomeProduto": "Teclado Mecânico RGB",
+          "quantidadeVendida": 1,
+          "valorProduto": 250.0
+        },
+        {
+          "idProduto": 19,
+          "nomeProduto": "Suporte Articulado Monitor",
+          "quantidadeVendida": 1,
+          "valorProduto": 220.0
+        }
+      ]
+    },
+    {
+      "idPedido": 150,
+      "data": "2025-03-28",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 2200.0,
+      "itens": [
+        {
+          "idProduto": 15,
+          "nomeProduto": "Placa de Vídeo RTX 3060",
+          "quantidadeVendida": 1,
+          "valorProduto": 2200.0
+        }
+      ]
+    },
+    {
+      "idPedido": 151,
+      "data": "2025-03-29",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 155.0,
+      "itens": [
+        {
+          "idProduto": 20,
+          "nomeProduto": "Hub USB 3.0 4 Portas",
+          "quantidadeVendida": 1,
+          "valorProduto": 60.0
+        },
+        {
+          "idProduto": 18,
+          "nomeProduto": "Adaptador USB-C para HDMI",
+          "quantidadeVendida": 1,
+          "valorProduto": 95.0
+        }
+      ]
+    },
+    {
+      "idPedido": 152,
+      "data": "2025-03-30",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 320.0,
+      "itens": [
+        {
+          "idProduto": 12,
+          "nomeProduto": "Memória RAM 16GB DDR4",
+          "quantidadeVendida": 1,
+          "valorProduto": 320.0
+        }
+      ]
+    },
+    {
+      "idPedido": 153,
+      "data": "2025-03-31",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 260.0,
+      "itens": [
+        {
+          "idProduto": 25,
+          "nomeProduto": "Luminária de Mesa LED",
+          "quantidadeVendida": 1,
+          "valorProduto": 110.0
+        },
+        {
+          "idProduto": 21,
+          "nomeProduto": "Caixa de Som Bluetooth",
+          "quantidadeVendida": 1,
+          "valorProduto": 150.0
+        }
+      ]
+    },
+
+    {
+      "idPedido": 154,
+      "data": "2025-04-02",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 1550.0,
+      "itens": [
+        {
+          "idProduto": 3,
+          "nomeProduto": "Monitor 24 Pol 144Hz",
+          "quantidadeVendida": 1,
+          "valorProduto": 1200.0
+        },
+        {
+          "idProduto": 4,
+          "nomeProduto": "Headset 7.1 Surround",
+          "quantidadeVendida": 1,
+          "valorProduto": 350.0
+        }
+      ]
+    },
+    {
+      "idPedido": 155,
+      "data": "2025-04-03",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 40.0,
+      "itens": [
+        {
+          "idProduto": 26,
+          "nomeProduto": "Pasta Térmica Alta Condutividade",
+          "quantidadeVendida": 1,
+          "valorProduto": 40.0
+        }
+      ]
+    },
+    {
+      "idPedido": 156,
+      "data": "2025-04-05",
+      "totalItensPedido": 3,
+      "valorTotalPedido": 215.0,
+      "itens": [
+        {
+          "idProduto": 23,
+          "nomeProduto": "Pendrive 64GB USB 3.0",
+          "quantidadeVendida": 2,
+          "valorProduto": 35.0
+        },
+        {
+          "idProduto": 18,
+          "nomeProduto": "Adaptador USB-C para HDMI",
+          "quantidadeVendida": 1,
+          "valorProduto": 85.0
+        },
+        {
+          "idProduto": 20,
+          "nomeProduto": "Hub USB 3.0 4 Portas",
+          "quantidadeVendida": 1,
+          "valorProduto": 60.0
+        }
+      ]
+    },
+    {
+      "idPedido": 157,
+      "data": "2025-04-07",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 950.0,
+      "itens": [
+        {
+          "idProduto": 7,
+          "nomeProduto": "Cadeira Ergonômica",
+          "quantidadeVendida": 1,
+          "valorProduto": 950.0
+        }
+      ]
+    },
+    {
+      "idPedido": 158,
+      "data": "2025-04-09",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 520.0,
+      "itens": [
+        {
+          "idProduto": 11,
+          "nomeProduto": "SSD NVMe 1TB",
+          "quantidadeVendida": 1,
+          "valorProduto": 400.0
+        },
+        {
+          "idProduto": 2,
+          "nomeProduto": "Mouse Gamer 12000 DPI",
+          "quantidadeVendida": 1,
+          "valorProduto": 120.0
+        }
+      ]
+    },
+    {
+      "idPedido": 159,
+      "data": "2025-04-11",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 280.0,
+      "itens": [
+        {
+          "idProduto": 5,
+          "nomeProduto": "Webcam 1080p",
+          "quantidadeVendida": 1,
+          "valorProduto": 280.0
+        }
+      ]
+    },
+    {
+      "idPedido": 160,
+      "data": "2025-04-13",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 2200.0,
+      "itens": [
+        {
+          "idProduto": 15,
+          "nomeProduto": "Placa de Vídeo RTX 3060",
+          "quantidadeVendida": 1,
+          "valorProduto": 2200.0
+        }
+      ]
+    },
+    {
+      "idPedido": 161,
+      "data": "2025-04-15",
+      "totalItensPedido": 3,
+      "valorTotalPedido": 330.0,
+      "itens": [
+        {
+          "idProduto": 25,
+          "nomeProduto": "Luminária de Mesa LED",
+          "quantidadeVendida": 3,
+          "valorProduto": 110.0
+        }
+      ]
+    },
+    {
+      "idPedido": 162,
+      "data": "2025-04-16",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 1220.0,
+      "itens": [
+        {
+          "idProduto": 9,
+          "nomeProduto": "Impressora Tanque de Tinta",
+          "quantidadeVendida": 1,
+          "valorProduto": 1100.0
+        },
+        {
+          "idProduto": 2,
+          "nomeProduto": "Mouse Gamer 12000 DPI",
+          "quantidadeVendida": 1,
+          "valorProduto": 120.0
+        }
+      ]
+    },
+    {
+      "idPedido": 163,
+      "data": "2025-04-18",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 190.0,
+      "itens": [
+        {
+          "idProduto": 22,
+          "nomeProduto": "Carregador Portátil 20k mAh",
+          "quantidadeVendida": 1,
+          "valorProduto": 190.0
+        }
+      ]
+    },
+    {
+      "idPedido": 164,
+      "data": "2025-04-20",
+      "totalItensPedido": 4,
+      "valorTotalPedido": 1090.0,
+      "itens": [
+        {
+          "idProduto": 10,
+          "nomeProduto": "Roteador Wi-Fi 6",
+          "quantidadeVendida": 1,
+          "valorProduto": 450.0
+        },
+        {
+          "idProduto": 12,
+          "nomeProduto": "Memória RAM 16GB DDR4",
+          "quantidadeVendida": 2,
+          "valorProduto": 320.0
+        }
+      ]
+    },
+    {
+      "idPedido": 165,
+      "data": "2025-04-22",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 115.0,
+      "itens": [
+        {
+          "idProduto": 29,
+          "nomeProduto": "Tapete para Mouse Extra G",
+          "quantidadeVendida": 1,
+          "valorProduto": 70.0
+        },
+        {
+          "idProduto": 17,
+          "nomeProduto": "Cabo HDMI 2.1 2m",
+          "quantidadeVendida": 1,
+          "valorProduto": 45.0
+        }
+      ]
+    },
+    {
+      "idPedido": 166,
+      "data": "2025-04-24",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 600.0,
+      "itens": [
+        {
+          "idProduto": 8,
+          "nomeProduto": "Mesa de Escritório L",
+          "quantidadeVendida": 1,
+          "valorProduto": 600.0
+        }
+      ]
+    },
+    {
+      "idPedido": 167,
+      "data": "2025-04-26",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 350.0,
+      "itens": [
+        {
+          "idProduto": 30,
+          "nomeProduto": "Switch 8 Portas Gigabit",
+          "quantidadeVendida": 1,
+          "valorProduto": 200.0
+        },
+        {
+          "idProduto": 24,
+          "nomeProduto": "Cooler para Processador",
+          "quantidadeVendida": 1,
+          "valorProduto": 150.0
+        }
+      ]
+    },
+    {
+      "idPedido": 168,
+      "data": "2025-04-27",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 2500.0,
+      "itens": [
+        {
+          "idProduto": 6,
+          "nomeProduto": "Smartphone 128GB",
+          "quantidadeVendida": 1,
+          "valorProduto": 2500.0
+        }
+      ]
+    },
+    {
+      "idPedido": 169,
+      "data": "2025-04-28",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 330.0,
+      "itens": [
+        {
+          "idProduto": 16,
+          "nomeProduto": "Microfone Condensador",
+          "quantidadeVendida": 1,
+          "valorProduto": 180.0
+        },
+        {
+          "idProduto": 21,
+          "nomeProduto": "Caixa de Som Bluetooth",
+          "quantidadeVendida": 1,
+          "valorProduto": 150.0
+        }
+      ]
+    },
+    {
+      "idPedido": 170,
+      "data": "2025-04-29",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 420.0,
+      "itens": [
+        {
+          "idProduto": 14,
+          "nomeProduto": "Fonte 650W 80 Plus",
+          "quantidadeVendida": 1,
+          "valorProduto": 420.0
+        }
+      ]
+    },
+    {
+      "idPedido": 171,
+      "data": "2025-04-30",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 520.0,
+      "itens": [
+        {
+          "idProduto": 13,
+          "nomeProduto": "Gabinete Mid Tower",
+          "quantidadeVendida": 1,
+          "valorProduto": 300.0
+        },
+        {
+          "idProduto": 19,
+          "nomeProduto": "Suporte Articulado Monitor",
+          "quantidadeVendida": 1,
+          "valorProduto": 220.0
+        }
+      ]
+    },
+
+    {
+      "idPedido": 172,
+      "data": "2025-05-03",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 290.0,
+      "itens": [
+        {
+          "idProduto": 1,
+          "nomeProduto": "Teclado Mecânico RGB",
+          "quantidadeVendida": 1,
+          "valorProduto": 250.0
+        },
+        {
+          "idProduto": 26,
+          "nomeProduto": "Pasta Térmica Alta Condutividade",
+          "quantidadeVendida": 1,
+          "valorProduto": 40.0
+        }
+      ]
+    },
+    {
+      "idPedido": 173,
+      "data": "2025-05-10",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 1200.0,
+      "itens": [
+        {
+          "idProduto": 3,
+          "nomeProduto": "Monitor 24 Pol 144Hz",
+          "quantidadeVendida": 1,
+          "valorProduto": 1200.0
+        }
+      ]
+    },
+    {
+      "idPedido": 174,
+      "data": "2025-05-15",
+      "totalItensPedido": 3,
+      "valorTotalPedido": 255.0,
+      "itens": [
+        {
+          "idProduto": 23,
+          "nomeProduto": "Pendrive 64GB USB 3.0",
+          "quantidadeVendida": 2,
+          "valorProduto": 35.0
+        },
+        {
+          "idProduto": 22,
+          "nomeProduto": "Carregador Portátil 20k mAh",
+          "quantidadeVendida": 1,
+          "valorProduto": 190.0
+        }
+      ]
+    },
+    {
+      "idPedido": 175,
+      "data": "2025-05-22",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 950.0,
+      "itens": [
+        {
+          "idProduto": 7,
+          "nomeProduto": "Cadeira Ergonômica",
+          "quantidadeVendida": 1,
+          "valorProduto": 950.0
+        }
+      ]
+    },
+    {
+      "idPedido": 176,
+      "data": "2025-05-28",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 485.0,
+      "itens": [
+        {
+          "idProduto": 11,
+          "nomeProduto": "SSD NVMe 1TB",
+          "quantidadeVendida": 1,
+          "valorProduto": 400.0
+        },
+        {
+          "idProduto": 18,
+          "nomeProduto": "Adaptador USB-C para HDMI",
+          "quantidadeVendida": 1,
+          "valorProduto": 85.0
+        }
+      ]
+    },
+
+    {
+      "idPedido": 177,
+      "data": "2025-06-12",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 3100.0,
+      "itens": [
+        {
+          "idProduto": 6,
+          "nomeProduto": "Smartphone 128GB",
+          "quantidadeVendida": 1,
+          "valorProduto": 2500.0
+        },
+        {
+          "idProduto": 8,
+          "nomeProduto": "Mesa de Escritório L",
+          "quantidadeVendida": 1,
+          "valorProduto": 600.0
+        }
+      ]
+    },
+    {
+      "idPedido": 178,
+      "data": "2025-06-25",
+      "totalItensPedido": 3,
+      "valorTotalPedido": 225.0,
+      "itens": [
+        {
+          "idProduto": 29,
+          "nomeProduto": "Tapete para Mouse Extra G",
+          "quantidadeVendida": 1,
+          "valorProduto": 70.0
+        },
+        {
+          "idProduto": 20,
+          "nomeProduto": "Hub USB 3.0 4 Portas",
+          "quantidadeVendida": 1,
+          "valorProduto": 60.0
+        },
+        {
+          "idProduto": 18,
+          "nomeProduto": "Adaptador USB-C para HDMI",
+          "quantidadeVendida": 1,
+          "valorProduto": 95.0
+        }
+      ]
+    },
+
+    {
+      "idPedido": 179,
+      "data": "2025-07-02",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 1450.0,
+      "itens": [
+        {
+          "idProduto": 3,
+          "nomeProduto": "Monitor 24 Pol 144Hz",
+          "quantidadeVendida": 1,
+          "valorProduto": 1200.0
+        },
+        {
+          "idProduto": 1,
+          "nomeProduto": "Teclado Mecânico RGB",
+          "quantidadeVendida": 1,
+          "valorProduto": 250.0
+        }
+      ]
+    },
+    {
+      "idPedido": 180,
+      "data": "2025-07-05",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 1100.0,
+      "itens": [
+        {
+          "idProduto": 9,
+          "nomeProduto": "Impressora Tanque de Tinta",
+          "quantidadeVendida": 1,
+          "valorProduto": 1100.0
+        }
+      ]
+    },
+    {
+      "idPedido": 181,
+      "data": "2025-07-10",
+      "totalItensPedido": 3,
+      "valorTotalPedido": 240.0,
+      "itens": [
+        {
+          "idProduto": 23,
+          "nomeProduto": "Pendrive 64GB USB 3.0",
+          "quantidadeVendida": 4,
+          "valorProduto": 35.0
+        },
+        {
+          "idProduto": 20,
+          "nomeProduto": "Hub USB 3.0 4 Portas",
+          "quantidadeVendida": 1,
+          "valorProduto": 60.0
+        },
+        {
+          "idProduto": 26,
+          "nomeProduto": "Pasta Térmica Alta Condutividade",
+          "quantidadeVendida": 1,
+          "valorProduto": 40.0
+        }
+      ]
+    },
+    {
+      "idPedido": 182,
+      "data": "2025-07-14",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 220.0,
+      "itens": [
+        {
+          "idProduto": 19,
+          "nomeProduto": "Suporte Articulado Monitor",
+          "quantidadeVendida": 1,
+          "valorProduto": 220.0
+        }
+      ]
+    },
+    {
+      "idPedido": 183,
+      "data": "2025-07-18",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 2350.0,
+      "itens": [
+        {
+          "idProduto": 15,
+          "nomeProduto": "Placa de Vídeo RTX 3060",
+          "quantidadeVendida": 1,
+          "valorProduto": 2200.0
+        },
+        {
+          "idProduto": 24,
+          "nomeProduto": "Cooler para Processador",
+          "quantidadeVendida": 1,
+          "valorProduto": 150.0
+        }
+      ]
+    },
+    {
+      "idPedido": 184,
+      "data": "2025-07-21",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 190.0,
+      "itens": [
+        {
+          "idProduto": 22,
+          "nomeProduto": "Carregador Portátil 20k mAh",
+          "quantidadeVendida": 1,
+          "valorProduto": 190.0
+        }
+      ]
+    },
+    {
+      "idPedido": 185,
+      "data": "2025-07-24",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 600.0,
+      "itens": [
+        {
+          "idProduto": 13,
+          "nomeProduto": "Gabinete Mid Tower",
+          "quantidadeVendida": 1,
+          "valorProduto": 300.0
+        },
+        {
+          "idProduto": 12,
+          "nomeProduto": "Memória RAM 16GB DDR4",
+          "quantidadeVendida": 1,
+          "valorProduto": 320.0
+        }
+      ]
+    },
+    {
+      "idPedido": 186,
+      "data": "2025-07-28",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 950.0,
+      "itens": [
+        {
+          "idProduto": 7,
+          "nomeProduto": "Cadeira Ergonômica",
+          "quantidadeVendida": 1,
+          "valorProduto": 950.0
+        }
+      ]
+    },
+    {
+      "idPedido": 187,
+      "data": "2025-07-30",
+      "totalItensPedido": 3,
+      "valorTotalPedido": 315.0,
+      "itens": [
+        {
+          "idProduto": 17,
+          "nomeProduto": "Cabo HDMI 2.1 2m",
+          "quantidadeVendida": 3,
+          "valorProduto": 45.0
+        },
+        {
+          "idProduto": 16,
+          "nomeProduto": "Microfone Condensador",
+          "quantidadeVendida": 1,
+          "valorProduto": 180.0
+        }
+      ]
+    },
+
+    {
+      "idPedido": 188,
+      "data": "2025-08-02",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 370.0,
+      "itens": [
+        {
+          "idProduto": 1,
+          "nomeProduto": "Teclado Mecânico RGB",
+          "quantidadeVendida": 1,
+          "valorProduto": 250.0
+        },
+        {
+          "idProduto": 2,
+          "nomeProduto": "Mouse Gamer 12000 DPI",
+          "quantidadeVendida": 1,
+          "valorProduto": 120.0
+        }
+      ]
+    },
+    {
+      "idPedido": 189,
+      "data": "2025-08-05",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 2500.0,
+      "itens": [
+        {
+          "idProduto": 6,
+          "nomeProduto": "Smartphone 128GB",
+          "quantidadeVendida": 1,
+          "valorProduto": 2500.0
+        }
+      ]
+    },
+    {
+      "idPedido": 190,
+      "data": "2025-08-09",
+      "totalItensPedido": 3,
+      "valorTotalPedido": 150.0,
+      "itens": [
+        {
+          "idProduto": 23,
+          "nomeProduto": "Pendrive 64GB USB 3.0",
+          "quantidadeVendida": 2,
+          "valorProduto": 35.0
+        },
+        {
+          "idProduto": 26,
+          "nomeProduto": "Pasta Térmica Alta Condutividade",
+          "quantidadeVendida": 2,
+          "valorProduto": 40.0
+        }
+      ]
+    },
+    {
+      "idPedido": 191,
+      "data": "2025-08-12",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 550.0,
+      "itens": [
+        {
+          "idProduto": 4,
+          "nomeProduto": "Headset 7.1 Surround",
+          "quantidadeVendida": 1,
+          "valorProduto": 350.0
+        },
+        {
+          "idProduto": 30,
+          "nomeProduto": "Switch 8 Portas Gigabit",
+          "quantidadeVendida": 1,
+          "valorProduto": 200.0
+        }
+      ]
+    },
+    {
+      "idPedido": 192,
+      "data": "2025-08-15",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 600.0,
+      "itens": [
+        {
+          "idProduto": 8,
+          "nomeProduto": "Mesa de Escritório L",
+          "quantidadeVendida": 1,
+          "valorProduto": 600.0
+        }
+      ]
+    },
+    {
+      "idPedido": 193,
+      "data": "2025-08-18",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 530.0,
+      "itens": [
+        {
+          "idProduto": 11,
+          "nomeProduto": "SSD NVMe 1TB",
+          "quantidadeVendida": 1,
+          "valorProduto": 400.0
+        },
+        {
+          "idProduto": 28,
+          "nomeProduto": "Extensor de Wi-Fi",
+          "quantidadeVendida": 1,
+          "valorProduto": 130.0
+        }
+      ]
+    },
+    {
+      "idPedido": 194,
+      "data": "2025-08-22",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 1200.0,
+      "itens": [
+        {
+          "idProduto": 3,
+          "nomeProduto": "Monitor 24 Pol 144Hz",
+          "quantidadeVendida": 1,
+          "valorProduto": 1200.0
+        }
+      ]
+    },
+    {
+      "idPedido": 195,
+      "data": "2025-08-25",
+      "totalItensPedido": 4,
+      "valorTotalPedido": 270.0,
+      "itens": [
+        {
+          "idProduto": 17,
+          "nomeProduto": "Cabo HDMI 2.1 2m",
+          "quantidadeVendida": 2,
+          "valorProduto": 45.0
+        },
+        {
+          "idProduto": 18,
+          "nomeProduto": "Adaptador USB-C para HDMI",
+          "quantidadeVendida": 1,
+          "valorProduto": 85.0
+        },
+        {
+          "idProduto": 27,
+          "nomeProduto": "Case para HD/SSD 2.5",
+          "quantidadeVendida": 1,
+          "valorProduto": 95.0
+        }
+      ]
+    },
+    {
+      "idPedido": 196,
+      "data": "2025-08-28",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 450.0,
+      "itens": [
+        {
+          "idProduto": 10,
+          "nomeProduto": "Roteador Wi-Fi 6",
+          "quantidadeVendida": 1,
+          "valorProduto": 450.0
+        }
+      ]
+    },
+    {
+      "idPedido": 197,
+      "data": "2025-08-31",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 330.0,
+      "itens": [
+        {
+          "idProduto": 25,
+          "nomeProduto": "Luminária de Mesa LED",
+          "quantidadeVendida": 1,
+          "valorProduto": 110.0
+        },
+        {
+          "idProduto": 19,
+          "nomeProduto": "Suporte Articulado Monitor",
+          "quantidadeVendida": 1,
+          "valorProduto": 220.0
+        }
+      ]
+    },
+
+    {
+      "idPedido": 198,
+      "data": "2025-09-02",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 720.0,
+      "itens": [
+        {
+          "idProduto": 12,
+          "nomeProduto": "Memória RAM 16GB DDR4",
+          "quantidadeVendida": 1,
+          "valorProduto": 320.0
+        },
+        {
+          "idProduto": 11,
+          "nomeProduto": "SSD NVMe 1TB",
+          "quantidadeVendida": 1,
+          "valorProduto": 400.0
+        }
+      ]
+    },
+    {
+      "idPedido": 199,
+      "data": "2025-09-04",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 1100.0,
+      "itens": [
+        {
+          "idProduto": 9,
+          "nomeProduto": "Impressora Tanque de Tinta",
+          "quantidadeVendida": 1,
+          "valorProduto": 1100.0
+        }
+      ]
+    },
+    {
+      "idPedido": 200,
+      "data": "2025-09-07",
+      "totalItensPedido": 3,
+      "valorTotalPedido": 140.0,
+      "itens": [
+        {
+          "idProduto": 23,
+          "nomeProduto": "Pendrive 64GB USB 3.0",
+          "quantidadeVendida": 2,
+          "valorProduto": 35.0
+        },
+        {
+          "idProduto": 29,
+          "nomeProduto": "Tapete para Mouse Extra G",
+          "quantidadeVendida": 1,
+          "valorProduto": 70.0
+        }
+      ]
+    },
+    {
+      "idPedido": 201,
+      "data": "2025-09-10",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 2200.0,
+      "itens": [
+        {
+          "idProduto": 15,
+          "nomeProduto": "Placa de Vídeo RTX 3060",
+          "quantidadeVendida": 1,
+          "valorProduto": 2200.0
+        }
+      ]
+    },
+    {
+      "idPedido": 202,
+      "data": "2025-09-12",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 300.0,
+      "itens": [
+        {
+          "idProduto": 21,
+          "nomeProduto": "Caixa de Som Bluetooth",
+          "quantidadeVendida": 2,
+          "valorProduto": 150.0
+        }
+      ]
+    },
+    {
+      "idPedido": 203,
+      "data": "2025-09-15",
+      "totalItensPedido": 4,
+      "valorTotalPedido": 340.0,
+      "itens": [
+        {
+          "idProduto": 17,
+          "nomeProduto": "Cabo HDMI 2.1 2m",
+          "quantidadeVendida": 2,
+          "valorProduto": 45.0
+        },
+        {
+          "idProduto": 22,
+          "nomeProduto": "Carregador Portátil 20k mAh",
+          "quantidadeVendida": 1,
+          "valorProduto": 190.0
+        },
+        {
+          "idProduto": 20,
+          "nomeProduto": "Hub USB 3.0 4 Portas",
+          "quantidadeVendida": 1,
+          "valorProduto": 60.0
+        }
+      ]
+    },
+    {
+      "idPedido": 204,
+      "data": "2025-09-18",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 950.0,
+      "itens": [
+        {
+          "idProduto": 7,
+          "nomeProduto": "Cadeira Ergonômica",
+          "quantidadeVendida": 1,
+          "valorProduto": 950.0
+        }
+      ]
+    },
+    {
+      "idPedido": 205,
+      "data": "2025-09-21",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 430.0,
+      "itens": [
+        {
+          "idProduto": 13,
+          "nomeProduto": "Gabinete Mid Tower",
+          "quantidadeVendida": 1,
+          "valorProduto": 300.0
+        },
+        {
+          "idProduto": 28,
+          "nomeProduto": "Extensor de Wi-Fi",
+          "quantidadeVendida": 1,
+          "valorProduto": 130.0
+        }
+      ]
+    },
+    {
+      "idPedido": 206,
+      "data": "2025-09-24",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 250.0,
+      "itens": [
+        {
+          "idProduto": 1,
+          "nomeProduto": "Teclado Mecânico RGB",
+          "quantidadeVendida": 1,
+          "valorProduto": 250.0
+        }
+      ]
+    },
+    {
+      "idPedido": 207,
+      "data": "2025-09-26",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 310.0,
+      "itens": [
+        {
+          "idProduto": 16,
+          "nomeProduto": "Microfone Condensador",
+          "quantidadeVendida": 1,
+          "valorProduto": 180.0
+        },
+        {
+          "idProduto": 28,
+          "nomeProduto": "Extensor de Wi-Fi",
+          "quantidadeVendida": 1,
+          "valorProduto": 130.0
+        }
+      ]
+    },
+    {
+      "idPedido": 208,
+      "data": "2025-09-28",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 420.0,
+      "itens": [
+        {
+          "idProduto": 14,
+          "nomeProduto": "Fonte 650W 80 Plus",
+          "quantidadeVendida": 1,
+          "valorProduto": 420.0
+        }
+      ]
+    },
+    {
+      "idPedido": 209,
+      "data": "2025-09-30",
+      "totalItensPedido": 3,
+      "valorTotalPedido": 205.0,
+      "itens": [
+        {
+          "idProduto": 25,
+          "nomeProduto": "Luminária de Mesa LED",
+          "quantidadeVendida": 1,
+          "valorProduto": 110.0
+        },
+        {
+          "idProduto": 18,
+          "nomeProduto": "Adaptador USB-C para HDMI",
+          "quantidadeVendida": 1,
+          "valorProduto": 95.0
+        }
+      ]
+    },
+
+    {
+      "idPedido": 1702,
+      "data": "2025-09-20",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 190.0,
+      "itens": [
+        {
+          "idProduto": 22,
+          "nomeProduto": "Carregador Portátil 20k mAh",
+          "quantidadeVendida": 1,
+          "valorProduto": 190.0
+        }
+      ]
+    },
+    {
+      "idPedido": 1901,
+      "data": "2025-10-01",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 35.0,
+      "itens": [
+        {
+          "idProduto": 23,
+          "nomeProduto": "Pendrive 64GB USB 3.0",
+          "quantidadeVendida": 1,
+          "valorProduto": 35.0
+        }
+      ]
+    },
+    {
+      "idPedido": 1902,
+      "data": "2025-10-15",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 150.0,
+      "itens": [
+        {
+          "idProduto": 24,
+          "nomeProduto": "Cooler para Processador",
+          "quantidadeVendida": 1,
+          "valorProduto": 150.0
+        }
+      ]
+    },
+
+    {
+      "idPedido": 210,
+      "data": "2025-11-05",
+      "totalItensPedido": 3,
+      "valorTotalPedido": 3130.0,
+      "itens": [
+        {
+          "idProduto": 6,
+          "nomeProduto": "Smartphone 128GB",
+          "quantidadeVendida": 1,
+          "valorProduto": 2500.0
+        },
+        {
+          "idProduto": 11,
+          "nomeProduto": "SSD NVMe 1TB",
+          "quantidadeVendida": 1,
+          "valorProduto": 400.0
+        },
+        {
+          "idProduto": 22,
+          "nomeProduto": "Carregador Portátil 20k mAh",
+          "quantidadeVendida": 1,
+          "valorProduto": 230.0
+        }
+      ]
+    },
+    {
+      "idPedido": 211,
+      "data": "2025-11-12",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 240.0,
+      "itens": [
+        {
+          "idProduto": 2,
+          "nomeProduto": "Mouse Gamer 12000 DPI",
+          "quantidadeVendida": 2,
+          "valorProduto": 120.0
+        }
+      ]
+    },
+    {
+      "idPedido": 212,
+      "data": "2025-11-18",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 2200.0,
+      "itens": [
+        {
+          "idProduto": 15,
+          "nomeProduto": "Placa de Vídeo RTX 3060",
+          "quantidadeVendida": 1,
+          "valorProduto": 2200.0
+        }
+      ]
+    },
+    {
+      "idPedido": 213,
+      "data": "2025-11-24",
+      "totalItensPedido": 4,
+      "valorTotalPedido": 485.0,
+      "itens": [
+        {
+          "idProduto": 20,
+          "nomeProduto": "Hub USB 3.0 4 Portas",
+          "quantidadeVendida": 2,
+          "valorProduto": 60.0
+        },
+        {
+          "idProduto": 17,
+          "nomeProduto": "Cabo HDMI 2.1 2m",
+          "quantidadeVendida": 3,
+          "valorProduto": 45.0
+        },
+        {
+          "idProduto": 23,
+          "nomeProduto": "Pendrive 64GB USB 3.0",
+          "quantidadeVendida": 5,
+          "valorProduto": 46.0
+        }
+      ]
+    },
+    {
+      "idPedido": 214,
+      "data": "2025-11-28",
+      "totalItensPedido": 2,
+      "valorTotalPedido": 1550.0,
+      "itens": [
+        {
+          "idProduto": 3,
+          "nomeProduto": "Monitor 24 Pol 144Hz",
+          "quantidadeVendida": 1,
+          "valorProduto": 1200.0
+        },
+        {
+          "idProduto": 4,
+          "nomeProduto": "Headset 7.1 Surround",
+          "quantidadeVendida": 1,
+          "valorProduto": 350.0
+        }
+      ]
+    },
+    {
+      "idPedido": 215,
+      "data": "2025-11-30",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 950.0,
+      "itens": [
+        {
+          "idProduto": 7,
+          "nomeProduto": "Cadeira Ergonômica",
+          "quantidadeVendida": 1,
+          "valorProduto": 950.0
+        }
+      ]
+    },
+
+    {
+      "idPedido": 2301,
+      "data": "2025-12-01",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 130.0,
+      "itens": [
+        {
+          "idProduto": 28,
+          "nomeProduto": "Extensor de Wi-Fi",
+          "quantidadeVendida": 1,
+          "valorProduto": 130.0
+        }
+      ]
+    },
+    {
+      "idPedido": 2302,
+      "data": "2025-12-25",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 200.0,
+      "itens": [
+        {
+          "idProduto": 30,
+          "nomeProduto": "Switch 8 Portas Gigabit",
+          "quantidadeVendida": 1,
+          "valorProduto": 200.0
+        }
+      ]
+    },
+    {
+      "idPedido": 2500,
+      "data": "2025-12-28",
+      "totalItensPedido": 1,
+      "valorTotalPedido": 70.0,
+      "itens": [
+        {
+          "idProduto": 29,
+          "nomeProduto": "Tapete para Mouse Extra G",
+          "quantidadeVendida": 1,
+          "valorProduto": 70.0
+        }
+      ]
+    }
+  ]
+}
